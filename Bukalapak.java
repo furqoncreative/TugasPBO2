@@ -1,5 +1,9 @@
-/*author : Deden Muhamad Furqon*/
-
+/*
+ * 
+ * @author (Deden Muhamad Furqon)
+ * @version (16/4/2019)
+ * 
+*/
 import java.util.*;
 
 public class Bukalapak{

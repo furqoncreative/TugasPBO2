@@ -1,4 +1,9 @@
-
+/*
+ * 
+ * @author (Deden Muhamad Furqon)
+ * @version (16/4/2019)
+ * 
+*/
 public class Laptop extends Barang{
 	
 	private String merk;
@@ -32,7 +37,7 @@ public class Laptop extends Barang{
 		System.out.println("Ini adalah laptop");
 		
 	}
-	//Overliad dari class barang
+	//Overload dari class barang
 	public void spesifikasi(int ram, String processor, String vga) {
 		System.out.println("RAM = "+ ram);
 		System.out.println("Processor = "+ processor);
